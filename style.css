@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+header {
+    background-color: #6200ea;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+img {
+    display: block;
+    max-width: 150px;
+    margin: 20px auto;
+    border-radius: 50%;
+}
+h1, h2 {
+    text-align: center;
+    
+    
+}
+
+p {
+    line-height: 1.6; /* ระยะห่างระหว่างบรรทัด */
+    margin-bottom: 20px; /* ระยะห่างระหว่างย่อหน้า */
+    text-indent: 20px; /* เพิ่มการย่อหน้า */
+    text-align: justify;
+
+
+}
+
+.social-links {
+    text-align: center;
+    margin-top: 20px;
+}
+.social-links a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #6200ea;
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #ddd;
+    margin-top: 20px;
+}
