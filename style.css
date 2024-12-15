@@ -27,6 +27,14 @@ h1, h2 {
     
     
 }
+.education {
+    margin-bottom: 15px; /* เพิ่มช่องว่างระหว่างหัวข้อ */
+    line-height: 1.6; /* เพิ่มระยะห่างระหว่างบรรทัด */
+}
+
+.education-title {
+    font-weight: bold; /* เน้นหัวข้อ */
+}
 
 p {
     line-height: 1.6; /* ระยะห่างระหว่างบรรทัด */
